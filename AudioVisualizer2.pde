@@ -6,6 +6,9 @@
 *  (See Branch.pde for more information of source and credits)
 *  
 *  Robert Fullum, August, 2020.
+*
+*  Built using Processing's Reach 2 example code from Keith Peters
+*  https://processing.org/examples/reach2.html
 */
 
 import processing.sound.*;
